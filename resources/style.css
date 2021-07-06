@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica;
+}
+
+.container {
+    margin: auto;
+    max-width: 63%;
+}
+
+.header > h1 {
+    font-size: 100px;
+    /* margin-top: 20em; */
+    text-align: center;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(./img/pattern.jpeg);
+}
+
+h2 {
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.frames > h2 {
+    background-color: lightcoral;
+}
+
+.paint > h2 {
+    background-color: skyblue;
+}
+
+p > span {
+    font-weight: bold;
+    color: blue;
+}
